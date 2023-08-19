@@ -6,6 +6,8 @@
 
 html {
     scroll-behavior: smooth;
+    overflow-x: hidden !important;
+    width: 100vw !important;
 }
 
 body {
@@ -14,7 +16,8 @@ body {
     position: relative;
     font-size: 14px;
     margin: 0;
-    overflow-x:hidden;
+    overflow-x: hidden !important;
+    width: 100vw !important;
 }
 
 .bb {
